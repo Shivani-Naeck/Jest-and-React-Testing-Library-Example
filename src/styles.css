@@ -1,0 +1,35 @@
+.container {
+    height: 450px;
+    width: 950px;
+    position: absolute;
+    top: 50%;
+    right: 50%;
+    transform: translate(50%, -50%);
+    border: solid lightgray;
+}
+
+.sub-top {
+    height: 285px;
+    width: 950px;
+    border-bottom: solid black;
+}
+
+.pic {
+    height: 285px;
+    width: 950px;
+
+    background-size: contain
+}
+
+.sub-bottom {
+    height: 100px;
+    width: 950px;
+
+}
+
+
+.p-content {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: gray;
+}
